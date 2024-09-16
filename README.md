@@ -1,4 +1,7 @@
-# pocket_pc_gen1
+# Pocket PC gen1
+# FILES:
+- concept / внутренняя архитектура
+- concept_visual / визуальный концепт
 
 # BACKLOG:
 - собрать список материалов
